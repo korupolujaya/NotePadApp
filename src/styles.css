@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+body{
+    font-style: italic;
+    font-size: medium;
+}
+.heading{
+    display:flex;
+    justify-content: center;
+    color: cornsilk;
+    background-color: blueviolet;
+    font-style: italic;
+    font-size: medium;
+    padding:20px;
+}
